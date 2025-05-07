@@ -8,4 +8,4 @@ You can use this UCD plugin to integrate Test Hub with DevOps Deploy to automate
 
 |Latest Version||Back to ...||
 | :---: | :---: | :---: | :---: |
-|[4.2](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/HCLDevOpsTestHub/DTHub-DD-HCL-4.2.zip)|[DTHub-Downloads](downloads.md)|[All Deploy Plugins](../README.md)|[All Plugins](../../index.md)|
+|[4.3](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/HCLDevOpsTestHub/DTHub-DD-HCL-4.3.zip)|[DTHub-Downloads](downloads.md)|[All Deploy Plugins](../README.md)|[All Plugins](../../index.md)|
